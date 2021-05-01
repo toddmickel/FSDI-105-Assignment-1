@@ -1,0 +1,23 @@
+main {
+    margin-top: 1.5rem;
+    margin-bottom: 3rem;
+    background-color: var(--textbox);
+    border: 2px solid var(--header);
+    padding: 2rem;
+}
+
+img {
+    position: absolute;
+    left: auto;
+    right: auto;
+    max-height: 300px;
+    width: 100%;
+    border: 2px solid var(--header);
+}
+
+.ss-container {
+    max-width: 500px;
+    height: 325px;
+    position: relative;
+    margin: auto;
+}
